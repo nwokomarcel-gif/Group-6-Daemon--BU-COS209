@@ -25,7 +25,7 @@ Attendance at Babcock is mostly taken on paper or by roll call. It uses up lectu
 
 ## 2. Research
 
-We surveyed students with a Google Form (https://forms.gle/fwyAVaRvpnGgiDzp6) and got (https://docs.google.com/spreadsheets/d/1dgfM6Ptn97l4h1IGlXv8dNJDOQtEJJpGmSz3NoWO_aQ/edit?usp=sharing)` responses. We did not interview lecturers in this phase, so anything about lecturers below is an assumption we will check before building.
+We surveyed students with a Google Form (https://forms.gle/fwyAVaRvpnGgiDzp6) and got (https://docs.google.com/spreadsheets/d/1dgfM6Ptn97l4h1IGlXv8dNJDOQtEJJpGmSz3NoWO_aQ/edit?usp=sharing) responses. We did not interview lecturers in this phase, so anything about lecturers below is an assumption we will check before building (We ran out of time). 
 
 **Findings:**
 - 42.9% said attendance takes too much lecture time
