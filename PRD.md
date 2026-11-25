@@ -108,6 +108,32 @@ Still to work out: how many students might scan at once in our biggest hall, how
 - **Students without smartphones:** lecturer manual override.
 - **School approval:** ask for a small pilot in one department.
 
+
+## User Story
+
+- As a student, I want to scan a rotating QR code during a lecture so that my attendance is recorded without wasting lecture time.
+
+- As a student, I want to view my attendance records and percentage for each course so that I can track my attendance and avoid falling below the required attendance rate.
+
+- As a student, I want to receive confirmation after a successful scan so that I know my attendance has been recorded.
+
+- As a student, I want to report or request corrections to missing attendance records so that errors can be resolved before they affect me.
+
+- As a lecturer, I want to start and end attendance sessions for my courses so that I can record attendance efficiently.
+
+- As a lecturer, I want to display a rotating QR code during lectures so that only students present during the session can attempt to register attendance.
+
+- As a lecturer, I want to view the live attendance count so that I can monitor attendance as students scan.
+
+- As a lecturer, I want to view, edit and export attendance records so that I can manage and submit accurate attendance reports.
+
+- As a lecturer, I want manual attendance corrections to be logged so that changes to attendance records can be traced.
+
+- As an admin or HOD, I want to view attendance summaries across courses and students so that I can monitor attendance and identify students with low attendance.
+
+- As an admin, I want to manage users, courses and enrollment records so that the system maintains accurate academic information
+
+
 ## 9. Next Steps
 
 1. Interview a few lecturers and check our assumptions
